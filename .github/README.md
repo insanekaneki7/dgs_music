@@ -1,14 +1,14 @@
 <h2 align="center">
-    ─「 𝐒ᴀᴘɴᴀ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 𝐈𝐍𝐒𝐀𝐍𝐄 𝘅 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+sᴀᴘɴᴀ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/SHIVANSH475/SHIVANSH-MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+sᴀᴘɴᴀ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝐈𝐍𝐒𝐀𝐍𝐄)](https://github.com/SHIVANSH475/SHIVANSH-MUSIC)
 
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/b61227af05544deb76a34.jpg">
+  <img src="https://telegra.ph/file/f68bc674a5d30948e6f01.png">
 </p>
 
 
@@ -40,10 +40,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/SHIVANSH39"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/insanesociety"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐊𝐀𝐍𝐄𝐊𝐈%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗨𝗞𝗟𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/insanesociety"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐊𝐀𝐍𝐄𝐊𝐈%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
